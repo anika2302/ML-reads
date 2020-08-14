@@ -2,8 +2,6 @@
 
 Repository of curated machine learning reads and resources. 📚
 
-<!-- markdownlint-disable MD033 -->
-
 ## Machine Learning & Deep Learning Ideation
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -248,14 +246,6 @@ Problems are motivated by the ones shared at:
 
 - [CMU Machine Learning](http://www.cs.cmu.edu/~./10701/projects.html)
 - [Stanford CS229 Machine Learning Projects](http://cs229.stanford.edu/)
-
-### Credit
-
-Built with lots of keyboard smashing and copy-pasta love by NirantK. Find me on [Twitter](http://www.twitter.com/@nirantk)!
-
-### [Receive New & Exclusive Ideas right in your Inbox](http://eepurl.com/dIKLhz)
-
-These ideas have been seen by [![hit count](http://hits.dwyl.io/anika2302/ML-reads.svg)](http://hits.dwyl.io/anika2302/ML-reads) people in last few months!
 
 
 ### License
