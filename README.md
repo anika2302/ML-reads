@@ -28,7 +28,7 @@ A curated list of practical deep learning (DL) and machine learning (ML) project
 
 - [Music and Audio](#music) - These topics are about combining ideas from language and audio to understand music
 
-- [Other list](https://github.com/mbadry1/Top-Deep-Learning) - Top deep learning Github repositories
+- [Other list](https://github.com/mbadry1/Top-Deep-Learning) - Top Deep Learning open-source repositories
 
 - [EOF / Conclusion](#conclusion)
 
